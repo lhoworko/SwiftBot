@@ -6,7 +6,7 @@ import praw
 import time
 
 username = 'SwiftBot'
-password = 'resetyourpassword'
+password = 'resetyourpassword' # <- actual password.
 subreddit = 'bottesting'
 
 # String to search for. 'Taylor Swift' makes sense.
